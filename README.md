@@ -18,6 +18,7 @@
 - use `git log`  to get commit hashes if you need to revert back.
 - to exit when you commit without a messge just do `:qw` in terminal
 - q to exit log
+- use new vsc window for every repo.
 
 ## BEST PROCESS - clone git
 
